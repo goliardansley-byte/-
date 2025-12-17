@@ -1,0 +1,8 @@
+{
+  "name": "MineGuard AI Control",
+  "description": "Intelligent mine inspection system implementing Multi-Source Fusion Perception: LIO-SLAM with adaptive noise, ST-GNN Gas Field Reconstruction, and Geometric-Semantic Traversability Analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
